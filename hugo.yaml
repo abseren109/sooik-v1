@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://abseren109.github.io/sooik-v1/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -13,6 +13,10 @@ outputs:
     - "RSS"
 
 enableRobotsTXT: true
+
+relativeURLs: true
+canonifyURLs: true
+
 
 #services:
   #googleAnalytics:
